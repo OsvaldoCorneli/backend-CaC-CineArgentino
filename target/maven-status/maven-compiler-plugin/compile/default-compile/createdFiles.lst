@@ -1,0 +1,9 @@
+com\incaaapi\ControllerDirectores.class
+com\incaaapi\Persona.class
+com\incaaapi\webServlet.class
+com\incaaapi\ControllerActrices.class
+com\incaaapi\Pelicula.class
+com\incaaapi\ControllerActores.class
+com\incaaapi\CorsFilter.class
+com\incaaapi\ControllerPeliculas.class
+com\incaaapi\Conexion.class
